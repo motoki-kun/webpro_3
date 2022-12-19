@@ -91,6 +91,7 @@ function Main() {
           <div className="content has-text-centere">
             <p>学籍番号：5420073</p>
             <p>氏名：島倉幹</p>
+            <p>参考にしたウェブサイト：https://uub.jp/</p>
           </div>
         </footer>
       
